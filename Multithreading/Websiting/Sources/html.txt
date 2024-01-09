@@ -1,0 +1,793 @@
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="ru-RU">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="ru-RU">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="ru-RU">
+<![endif]-->
+<!--[if !(IE 6) & !(IE 7) & !(IE 8)]><!-->
+<html lang="ru-RU">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Муниципальное бюджетное учреждение культуры &quot;Ефремовский районный Дом культуры &quot;Химик&quot; | официальный сайт МБУК &quot;ЕРДК &quot;Химик&quot;</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://erdkhimik.ru/wp-content/themes/twentyeleven/style.css" />
+<link rel="pingback" href="http://erdkhimik.ru/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://erdkhimik.ru/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<!-- All in One SEO Pack 2.2.4.2 by Michael Torbert of Semper Fi Web Design[353,514] -->
+<link rel='next' href='http://erdkhimik.ru/page/2' />
+
+<link rel="canonical" href="http://erdkhimik.ru/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Муниципальное бюджетное учреждение культуры &quot;Ефремовский районный Дом культуры &quot;Химик&quot; &raquo; Лента" href="http://erdkhimik.ru/feed" />
+<link rel="alternate" type="application/rss+xml" title="Муниципальное бюджетное учреждение культуры &quot;Ефремовский районный Дом культуры &quot;Химик&quot; &raquo; Лента комментариев" href="http://erdkhimik.ru/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/erdkhimik.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.24"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='https://api.w.org/' href='http://erdkhimik.ru/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://erdkhimik.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://erdkhimik.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.24" />
+
+<!-- Easy WP Meta Description -->
+<meta name="description" content="официальный сайт МБУК &quot;ЕРДК &quot;Химик&quot;">
+<!-- /Easy WP Meta Description -->
+
+					<style>
+		/* Link color */
+		a,
+		#site-title a:focus,
+		#site-title a:hover,
+		#site-title a:active,
+		.entry-title a:hover,
+		.entry-title a:focus,
+		.entry-title a:active,
+		.widget_twentyeleven_ephemera .comments-link a:hover,
+		section.recent-posts .other-recent-posts a[rel="bookmark"]:hover,
+		section.recent-posts .other-recent-posts .comments-link a:hover,
+		.format-image footer.entry-meta a:hover,
+		#site-generator a:hover {
+			color: #0e30f2;
+		}
+		section.recent-posts .other-recent-posts .comments-link a:hover {
+			border-color: #0e30f2;
+		}
+		article.feature-image.small .entry-summary p a:hover,
+		.entry-header .comments-link a:hover,
+		.entry-header .comments-link a:focus,
+		.entry-header .comments-link a:active,
+		.feature-slider a.active {
+			background-color: #0e30f2;
+		}
+	</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #dd9933; background-image: url("http://erdkhimik.ru/wp-content/uploads/2020/10/20151207055020744-2-250x300.jpg"); background-position: left top; background-size: cover; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+	<meta 
+	name="sputnik-verification" 
+	content="iqnB4QHyeyji8cdW"
+/>
+</head>
+
+<body class="home blog custom-background single-author two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://erdkhimik.ru/" rel="home">Муниципальное бюджетное учреждение культуры &quot;Ефремовский районный Дом культуры &quot;Химик&quot;</a></span></h1>
+				<h2 id="site-description">официальный сайт МБУК &quot;ЕРДК &quot;Химик&quot;</h2>
+			</hgroup>
+
+						<a href="http://erdkhimik.ru/">
+									<img src="http://erdkhimik.ru/wp-content/uploads/2020/10/cropped-cropped-1.jpg" width="1000" height="288" alt="Муниципальное бюджетное учреждение культуры &quot;Ефремовский районный Дом культуры &quot;Химик&quot;" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://erdkhimik.ru/">
+		<label for="s" class="assistive-text">Поиск</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Поиск" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Поиск" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Главное меню</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content">Перейти к основному содержимому</a></div>
+									<div class="skip-link"><a class="assistive-text" href="#secondary">Перейти к дополнительному содержимому</a></div>
+												<div class="menu"><ul>
+<li class="current_page_item"><a href="http://erdkhimik.ru/">Главная</a></li><li class="page_item page-item-20210"><a href="http://erdkhimik.ru/0001-afisha-kinoteatra">0001 АФИША КИНОТЕАТРА</a></li>
+<li class="page_item page-item-34858"><a href="http://erdkhimik.ru/0002-protivodejstvie-korrupcii">0002 Противодействие коррупции</a></li>
+<li class="page_item page-item-11045"><a href="http://erdkhimik.ru/antiterroristicheskaya-politika">002 Антитеррористическая политика</a></li>
+<li class="page_item page-item-2412"><a href="http://erdkhimik.ru/grafik-raboty">003 График работы</a></li>
+<li class="page_item page-item-5757"><a href="http://erdkhimik.ru/grafik-raboty-kinoteatra">004 График работы кинотеатра</a></li>
+<li class="page_item page-item-2419"><a href="http://erdkhimik.ru/direktor">005 Директор</a></li>
+<li class="page_item page-item-2487"><a href="http://erdkhimik.ru/dokumentaciya">007 Документация</a></li>
+<li class="page_item page-item-139"><a href="http://erdkhimik.ru/kratkaya-informaciya-nas">008 Информация</a></li>
+<li class="page_item page-item-36"><a href="http://erdkhimik.ru/nashe-mestopolozhenie">009 Местоположение</a></li>
+<li class="page_item page-item-8955"><a href="http://erdkhimik.ru/narodnyj-byudzhet">010 НАРОДНЫЙ БЮДЖЕТ</a></li>
+<li class="page_item page-item-8718"><a href="http://erdkhimik.ru/nezavisimaya-ocenka">011 Независимая оценка</a></li>
+<li class="page_item page-item-8790"><a href="http://erdkhimik.ru/obratnaya-svyaz">012 Обратная связь</a></li>
+<li class="page_item page-item-11141"><a href="http://erdkhimik.ru/pamyatka-roditelyam">013 Памятка родителям</a></li>
+<li class="page_item page-item-7819"><a href="http://erdkhimik.ru/politika">014 Персональные данные</a></li>
+<li class="page_item page-item-141"><a href="http://erdkhimik.ru/nashi-rabotniki">015 Работники</a></li>
+<li class="page_item page-item-2481"><a href="http://erdkhimik.ru/struktura-mbuk-erdk-ximik">016 Структура</a></li>
+<li class="page_item page-item-19736"><a href="http://erdkhimik.ru/volontyorskoe-dvizhenie">Волонтёрское движение</a></li>
+<li class="page_item page-item-13794"><a href="http://erdkhimik.ru/kochkinskij-selskij-klub">Кочкинский сельский клуб</a></li>
+<li class="page_item page-item-14032"><a href="http://erdkhimik.ru/kruglikovskij-selskij-klub">Кругликовский сельский клуб</a></li>
+<li class="page_item page-item-13808"><a href="http://erdkhimik.ru/kukujskij-selskij-klub">Кукуйский сельский клуб</a></li>
+<li class="page_item page-item-13824"><a href="http://erdkhimik.ru/kytinskij-selskij-dom-kultury">Кытинский сельский дом культуры</a></li>
+<li class="page_item page-item-13702"><a href="http://erdkhimik.ru/lobanovskij-selskij-dom-kultury">Лобановский сельский дом культуры</a></li>
+<li class="page_item page-item-13504"><a href="http://erdkhimik.ru/mechnyanskij-selskij-klub">Мечнянский сельский клуб</a></li>
+<li class="page_item page-item-13905"><a href="http://erdkhimik.ru/mirnovskij-selskij-klub">Мирновский сельский клуб</a></li>
+<li class="page_item page-item-13916"><a href="http://erdkhimik.ru/nikolaevskij-selskij-klub">Николаевский сельский клуб</a></li>
+<li class="page_item page-item-14015"><a href="http://erdkhimik.ru/novokrasivskij-selskij-klub">Новокрасивский сельский клуб</a></li>
+<li class="page_item page-item-13783"><a href="http://erdkhimik.ru/ovsyannikovskij-selskij-dom-kultury">Овсянниковский сельский дом культуры</a></li>
+<li class="page_item page-item-13926"><a href="http://erdkhimik.ru/pavlo-xutorskoj-selskij-dom-kultury">Павло-Хуторской сельский дом культуры</a></li>
+<li class="page_item page-item-13997"><a href="http://erdkhimik.ru/pozhilinskij-selskij-dom-kultury">Пожилинский сельский Дом культуры</a></li>
+<li class="page_item page-item-4181"><a href="http://erdkhimik.ru/antikorrupcionnaya-politika">Противодействие коррупции</a></li>
+<li class="page_item page-item-22741"><a href="http://erdkhimik.ru/selskij-klub-kugushevskie-vyselki">Сельский клуб Кугушевские выселки</a></li>
+<li class="page_item page-item-13984"><a href="http://erdkhimik.ru/selskij-klub-posyolok-kolos">Сельский клуб посёлок &#171;Колос&#187;</a></li>
+<li class="page_item page-item-13754"><a href="http://erdkhimik.ru/stepno-xutorskoj-selskij-dom-kultury">Степно-Хуторской сельский дом культуры</a></li>
+<li class="page_item page-item-13932"><a href="http://erdkhimik.ru/stupinskij-selskij-dom-kultury">Ступинский сельский дом культуры</a></li>
+<li class="page_item page-item-14020"><a href="http://erdkhimik.ru/xmelevskoj-selskij-klub">Хмелевской сельский клуб</a></li>
+<li class="page_item page-item-13939"><a href="http://erdkhimik.ru/chernyatinskij-selskij-klub">Чернятинский сельский клуб</a></li>
+<li class="page_item page-item-13948"><a href="http://erdkhimik.ru/shilovskij-selskij-dom-kultury">Шиловский сельский дом культуры</a></li>
+<li class="page_item page-item-14039"><a href="http://erdkhimik.ru/shkilyovskij-selskij-dom-kultury">Шкилёвский сельский дом культуры</a></li>
+<li class="page_item page-item-13970"><a href="http://erdkhimik.ru/13970-2">Ярославский сельский дом культуры</a></li>
+</ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<div id="primary">
+			<div id="content" role="main">
+
+			
+						<nav id="nav-above">
+			<h3 class="assistive-text">Навигация по записям</h3>
+			<div class="nav-previous"><a href="http://erdkhimik.ru/page/2" ><span class="meta-nav">&larr;</span> Предыдущие записи</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-above -->
+	
+								
+					
+	<article id="post-37380" class="post-37380 post type-post status-publish format-standard hentry category-lobanovskij-klub">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://erdkhimik.ru/bystraya-raketka-13" rel="bookmark">&#171;Быстрая ракетка&#187;</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Опубликовано: </span><a href="http://erdkhimik.ru/bystraya-raketka-13" title="10:35" rel="bookmark"><time class="entry-date" datetime="2023-11-03T10:35:27+00:00">03.11.2023</time></a><span class="by-author"> <span class="sep"> </span> <span class="author vcard"><a class="url fn n" href="http://erdkhimik.ru/author/admin" title="Посмотреть все записи автора admin" rel="author">admin</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://erdkhimik.ru/bystraya-raketka-13#respond"><span class="leave-reply">Добавить комментарий</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_37315" style="width: 100px" class="wp-caption aligncenter"><img class="size-full wp-image-37315" src="http://erdkhimik.ru/wp-content/uploads/2023/10/12-1.jpg" alt="" width="90" height="90" /><p class="wp-caption-text">Возрастное ограничение</p></div>
+<p>28 октября в Лобановском СДК состоялся турнир по настольному теннису &#171;Быстрая ракетка&#187;.Среди детей победу одержал Коля Борщев, а среди молодёжи &#8212; Александр Савкин. Все участники получили заряд бодрости и хорошего настроения.</p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-37381" src="http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286833.jpg" alt="" width="640" height="307" srcset="http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286833.jpg 640w, http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286833-300x144.jpg 300w, http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286833-500x240.jpg 500w" sizes="(max-width: 640px) 100vw, 640px" /> <a href="http://erdkhimik.ru/bystraya-raketka-13#more-37380" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Размещено в</span> <a href="http://erdkhimik.ru/category/lobanovskij-klub" rel="category tag">Лобановский сельский дом культуры</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://erdkhimik.ru/bystraya-raketka-13#respond"><span class="leave-reply">Комментарии</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-37380 -->
+
+				
+					
+	<article id="post-37371" class="post-37371 post type-post status-publish format-standard hentry category-xmelevskoj-selskij-klub">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://erdkhimik.ru/shashechnyj-turnir-3" rel="bookmark">шашечный турнир</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Опубликовано: </span><a href="http://erdkhimik.ru/shashechnyj-turnir-3" title="10:29" rel="bookmark"><time class="entry-date" datetime="2023-11-03T10:29:34+00:00">03.11.2023</time></a><span class="by-author"> <span class="sep"> </span> <span class="author vcard"><a class="url fn n" href="http://erdkhimik.ru/author/admin" title="Посмотреть все записи автора admin" rel="author">admin</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://erdkhimik.ru/shashechnyj-turnir-3#respond"><span class="leave-reply">Добавить комментарий</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_37315" style="width: 100px" class="wp-caption aligncenter"><img class="size-full wp-image-37315" src="http://erdkhimik.ru/wp-content/uploads/2023/10/12-1.jpg" alt="" width="90" height="90" /><p class="wp-caption-text">Возрастное ограничение</p></div>
+<p>1 ноября в Хмелевском СК был проведён шашечный турнир.Участники были поделены на две команды.Состязание проходило в напряжённой борьбе, ведь соперники оказались довольно сильными.Но в итоге победила конечно же дружба.Всем участникам были вручены сладкие призы.Участвовало 8 человек.Присутствовало 16 человек.</p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-37372" src="http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286731.jpg" alt="" width="640" height="480" srcset="http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286731.jpg 640w, http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286731-300x225.jpg 300w, http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286731-400x300.jpg 400w" sizes="(max-width: 640px) 100vw, 640px" /> <a href="http://erdkhimik.ru/shashechnyj-turnir-3#more-37371" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Размещено в</span> <a href="http://erdkhimik.ru/category/xmelevskoj-selskij-klub" rel="category tag">Хмелевской сельский клуб</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://erdkhimik.ru/shashechnyj-turnir-3#respond"><span class="leave-reply">Комментарии</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-37371 -->
+
+				
+					
+	<article id="post-37366" class="post-37366 post type-post status-publish format-standard hentry category-pavlo-xutorskoj-selskij-dom-kultury">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://erdkhimik.ru/tennisnyj-turnir-14" rel="bookmark">теннисный турнир</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Опубликовано: </span><a href="http://erdkhimik.ru/tennisnyj-turnir-14" title="10:28" rel="bookmark"><time class="entry-date" datetime="2023-11-03T10:28:17+00:00">03.11.2023</time></a><span class="by-author"> <span class="sep"> </span> <span class="author vcard"><a class="url fn n" href="http://erdkhimik.ru/author/admin" title="Посмотреть все записи автора admin" rel="author">admin</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://erdkhimik.ru/tennisnyj-turnir-14#respond"><span class="leave-reply">Добавить комментарий</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_37315" style="width: 100px" class="wp-caption aligncenter"><img class="size-full wp-image-37315" src="http://erdkhimik.ru/wp-content/uploads/2023/10/12-1.jpg" alt="" width="90" height="90" /><p class="wp-caption-text">Возрастное ограничение</p></div>
+<p>29 октября в Павлов Хуторском СДК, прошёл теннисный турнир. Ребята показали своё мастерство и ловкость. Участники турнира не только посостязались в умение играть в теннис, но и замечательно пообщались и весело провели время.</p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-37367" src="http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286424.jpg" alt="" width="640" height="480" srcset="http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286424.jpg 640w, http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286424-300x225.jpg 300w, http://erdkhimik.ru/wp-content/uploads/2023/11/photo5337078120840286424-400x300.jpg 400w" sizes="(max-width: 640px) 100vw, 640px" /> <a href="http://erdkhimik.ru/tennisnyj-turnir-14#more-37366" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Размещено в</span> <a href="http://erdkhimik.ru/category/pavlo-xutorskoj-selskij-dom-kultury" rel="category tag">Павло-Хуторской сельский дом культуры</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://erdkhimik.ru/tennisnyj-turnir-14#respond"><span class="leave-reply">Комментарии</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-37366 -->
+
+				
+					
+	<article id="post-37362" class="post-37362 post type-post status-publish format-standard hentry category-afisha-kinoteatra">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://erdkhimik.ru/kino-so-2-po-8-noyabrya-2" rel="bookmark">кино со 2 по 8 ноября</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Опубликовано: </span><a href="http://erdkhimik.ru/kino-so-2-po-8-noyabrya-2" title="06:13" rel="bookmark"><time class="entry-date" datetime="2023-11-02T06:13:08+00:00">02.11.2023</time></a><span class="by-author"> <span class="sep"> </span> <span class="author vcard"><a class="url fn n" href="http://erdkhimik.ru/author/admin" title="Посмотреть все записи автора admin" rel="author">admin</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://erdkhimik.ru/kino-so-2-po-8-noyabrya-2#respond"><span class="leave-reply">Добавить комментарий</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_37315" style="width: 100px" class="wp-caption aligncenter"><img class="size-full wp-image-37315" src="http://erdkhimik.ru/wp-content/uploads/2023/10/12-1.jpg" alt="" width="90" height="90" /><p class="wp-caption-text">Возрастное ограничение</p></div>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-37363" src="http://erdkhimik.ru/wp-content/uploads/2023/11/Расписание-с-2.11.jpg" alt="" width="339" height="480" srcset="http://erdkhimik.ru/wp-content/uploads/2023/11/Расписание-с-2.11.jpg 339w, http://erdkhimik.ru/wp-content/uploads/2023/11/Расписание-с-2.11-212x300.jpg 212w" sizes="(max-width: 339px) 100vw, 339px" /></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Размещено в</span> <a href="http://erdkhimik.ru/category/afisha-kinoteatra" rel="category tag">Афиша кинотеатра</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://erdkhimik.ru/kino-so-2-po-8-noyabrya-2#respond"><span class="leave-reply">Комментарии</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-37362 -->
+
+				
+					
+	<article id="post-37360" class="post-37360 post type-post status-publish format-standard hentry category-video category-stupinskij-selskij-dom-kultury">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://erdkhimik.ru/master-klassy-igra-na-gitare-dlya-levoj-ruki-stupinskij-sdk-provodit-panin-s-v" rel="bookmark">Мастер-классы &#171;Игра на гитаре для левой руки&#187; (Ступинский СДК) &#8212; проводит Панин С.В.</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Опубликовано: </span><a href="http://erdkhimik.ru/master-klassy-igra-na-gitare-dlya-levoj-ruki-stupinskij-sdk-provodit-panin-s-v" title="11:37" rel="bookmark"><time class="entry-date" datetime="2023-11-01T11:37:23+00:00">01.11.2023</time></a><span class="by-author"> <span class="sep"> </span> <span class="author vcard"><a class="url fn n" href="http://erdkhimik.ru/author/admin" title="Посмотреть все записи автора admin" rel="author">admin</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://erdkhimik.ru/master-klassy-igra-na-gitare-dlya-levoj-ruki-stupinskij-sdk-provodit-panin-s-v#respond"><span class="leave-reply">Добавить комментарий</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_37315" style="width: 100px" class="wp-caption aligncenter"><img class="size-full wp-image-37315" src="http://erdkhimik.ru/wp-content/uploads/2023/10/12-1.jpg" alt="" width="90" height="90" /><p class="wp-caption-text">Возрастное ограничение</p></div>
+<p><iframe src="https://rutube.ru/play/embed/e849a8585315d52f1c72a502b074c4fd" width="720" height="405" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Размещено в</span> <a href="http://erdkhimik.ru/category/video" rel="category tag">видео</a>, <a href="http://erdkhimik.ru/category/stupinskij-selskij-dom-kultury" rel="category tag">Ступинский сельский дом культуры</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://erdkhimik.ru/master-klassy-igra-na-gitare-dlya-levoj-ruki-stupinskij-sdk-provodit-panin-s-v#respond"><span class="leave-reply">Комментарии</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-37360 -->
+
+				
+					
+	<article id="post-37356" class="post-37356 post type-post status-publish format-standard hentry category-nashi-meropriyatiya">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://erdkhimik.ru/afisha-koncert-44" rel="bookmark">афиша концерт</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Опубликовано: </span><a href="http://erdkhimik.ru/afisha-koncert-44" title="07:37" rel="bookmark"><time class="entry-date" datetime="2023-10-31T07:37:08+00:00">31.10.2023</time></a><span class="by-author"> <span class="sep"> </span> <span class="author vcard"><a class="url fn n" href="http://erdkhimik.ru/author/admin" title="Посмотреть все записи автора admin" rel="author">admin</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://erdkhimik.ru/afisha-koncert-44#respond"><span class="leave-reply">Добавить комментарий</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_37315" style="width: 100px" class="wp-caption aligncenter"><img class="size-full wp-image-37315" src="http://erdkhimik.ru/wp-content/uploads/2023/10/12-1.jpg" alt="" width="90" height="90" /><p class="wp-caption-text">Возрастное ограничение</p></div>
+<p><img class="alignnone size-full wp-image-37357 aligncenter" src="http://erdkhimik.ru/wp-content/uploads/2023/10/1.jpg" alt="" width="479" height="479" srcset="http://erdkhimik.ru/wp-content/uploads/2023/10/1.jpg 479w, http://erdkhimik.ru/wp-content/uploads/2023/10/1-150x150.jpg 150w, http://erdkhimik.ru/wp-content/uploads/2023/10/1-300x300.jpg 300w" sizes="(max-width: 479px) 100vw, 479px" /></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Размещено в</span> <a href="http://erdkhimik.ru/category/nashi-meropriyatiya" rel="category tag">афиша мероприятий РДК</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://erdkhimik.ru/afisha-koncert-44#respond"><span class="leave-reply">Комментарии</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-37356 -->
+
+				
+					
+	<article id="post-37350" class="post-37350 post type-post status-publish format-standard hentry category-selskij-klub-kugushevskie-vyselki">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://erdkhimik.ru/avtomobilist" rel="bookmark">&#187; Автомобилист&#187;</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Опубликовано: </span><a href="http://erdkhimik.ru/avtomobilist" title="07:35" rel="bookmark"><time class="entry-date" datetime="2023-10-31T07:35:34+00:00">31.10.2023</time></a><span class="by-author"> <span class="sep"> </span> <span class="author vcard"><a class="url fn n" href="http://erdkhimik.ru/author/admin" title="Посмотреть все записи автора admin" rel="author">admin</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://erdkhimik.ru/avtomobilist#respond"><span class="leave-reply">Добавить комментарий</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_37315" style="width: 100px" class="wp-caption aligncenter"><img class="size-full wp-image-37315" src="http://erdkhimik.ru/wp-content/uploads/2023/10/12-1.jpg" alt="" width="90" height="90" /><p class="wp-caption-text">Возрастное ограничение</p></div>
+<p><img class="alignnone size-full wp-image-37313 aligncenter" src="http://erdkhimik.ru/wp-content/uploads/2023/10/логотип-культура-1.jpg" alt="" width="336" height="336" srcset="http://erdkhimik.ru/wp-content/uploads/2023/10/логотип-культура-1.jpg 336w, http://erdkhimik.ru/wp-content/uploads/2023/10/логотип-культура-1-150x150.jpg 150w, http://erdkhimik.ru/wp-content/uploads/2023/10/логотип-культура-1-300x300.jpg 300w" sizes="(max-width: 336px) 100vw, 336px" /></p>
+<p>29 октября 2023 года в СК Кугушевские Выселки прошла игровая викторина про авто ко дню автомобилиста &#187; Автомобилист&#187;. Участники отвечали на вопросы об авто и дорожном движении, в программе были как правила пдд, так и шуточные вопросы с подвохом. Мероприятие прошло интересно и познавательно. На мероприятии присутствовало 20 человек</p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-37351" src="http://erdkhimik.ru/wp-content/uploads/2023/10/photo5330335052250336944.jpg" alt="" width="640" height="480" srcset="http://erdkhimik.ru/wp-content/uploads/2023/10/photo5330335052250336944.jpg 640w, http://erdkhimik.ru/wp-content/uploads/2023/10/photo5330335052250336944-300x225.jpg 300w, http://erdkhimik.ru/wp-content/uploads/2023/10/photo5330335052250336944-400x300.jpg 400w" sizes="(max-width: 640px) 100vw, 640px" /> <a href="http://erdkhimik.ru/avtomobilist#more-37350" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Размещено в</span> <a href="http://erdkhimik.ru/category/selskij-klub-kugushevskie-vyselki" rel="category tag">Сельский клуб Кугушевские выселки</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://erdkhimik.ru/avtomobilist#respond"><span class="leave-reply">Комментарии</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-37350 -->
+
+				
+					
+	<article id="post-37346" class="post-37346 post type-post status-publish format-standard hentry category-lektorii-dlya-molodyozhi category-selskij-klub-posyolok-kolos">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://erdkhimik.ru/narkotikam-skazhem-net" rel="bookmark">&#187; Наркотикам скажем &#8212; НЕТ !&#187;</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Опубликовано: </span><a href="http://erdkhimik.ru/narkotikam-skazhem-net" title="07:34" rel="bookmark"><time class="entry-date" datetime="2023-10-31T07:34:27+00:00">31.10.2023</time></a><span class="by-author"> <span class="sep"> </span> <span class="author vcard"><a class="url fn n" href="http://erdkhimik.ru/author/admin" title="Посмотреть все записи автора admin" rel="author">admin</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://erdkhimik.ru/narkotikam-skazhem-net#respond"><span class="leave-reply">Добавить комментарий</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_37315" style="width: 100px" class="wp-caption aligncenter"><img class="size-full wp-image-37315" src="http://erdkhimik.ru/wp-content/uploads/2023/10/12-1.jpg" alt="" width="90" height="90" /><p class="wp-caption-text">Возрастное ограничение</p></div>
+<p>28 октября вСК п.&#187; Колос&#187; была проведена беседа &#187; Наркотикам скажем &#8212; НЕТ !&#187; .Ребятам было рассказано о вреде этого сильнодействующего вещества.О том как можно быстро к нему привыкнуть ,и что попробовав один раз , человек становиться обречённым на постоянное их употребление и очень короткую жизнь.Так как наркотики несут смерть. Присутствовало 12 человек.</p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-37347" src="http://erdkhimik.ru/wp-content/uploads/2023/10/photo5328083252436652361.jpg" alt="" width="640" height="480" srcset="http://erdkhimik.ru/wp-content/uploads/2023/10/photo5328083252436652361.jpg 640w, http://erdkhimik.ru/wp-content/uploads/2023/10/photo5328083252436652361-300x225.jpg 300w, http://erdkhimik.ru/wp-content/uploads/2023/10/photo5328083252436652361-400x300.jpg 400w" sizes="(max-width: 640px) 100vw, 640px" /> <a href="http://erdkhimik.ru/narkotikam-skazhem-net#more-37346" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Размещено в</span> <a href="http://erdkhimik.ru/category/lektorii-dlya-molodyozhi" rel="category tag">лектории для молодёжи</a>, <a href="http://erdkhimik.ru/category/selskij-klub-posyolok-kolos" rel="category tag">сельский клуб посёлок "Колос"</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://erdkhimik.ru/narkotikam-skazhem-net#respond"><span class="leave-reply">Комментарии</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-37346 -->
+
+				
+					
+	<article id="post-37341" class="post-37341 post type-post status-publish format-standard hentry category-mechnyanskij-selskij-klub">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://erdkhimik.ru/i-pomnit-strashno-i-zabyt-nelzya" rel="bookmark">&#171;И помнить страшно, и забыть нельзя&#187;</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Опубликовано: </span><a href="http://erdkhimik.ru/i-pomnit-strashno-i-zabyt-nelzya" title="07:33" rel="bookmark"><time class="entry-date" datetime="2023-10-31T07:33:01+00:00">31.10.2023</time></a><span class="by-author"> <span class="sep"> </span> <span class="author vcard"><a class="url fn n" href="http://erdkhimik.ru/author/admin" title="Посмотреть все записи автора admin" rel="author">admin</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://erdkhimik.ru/i-pomnit-strashno-i-zabyt-nelzya#respond"><span class="leave-reply">Добавить комментарий</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_37315" style="width: 100px" class="wp-caption aligncenter"><img class="size-full wp-image-37315" src="http://erdkhimik.ru/wp-content/uploads/2023/10/12-1.jpg" alt="" width="90" height="90" /><p class="wp-caption-text">Возрастное ограничение</p></div>
+<p>29 октября в Мечнянском СК прошел час памяти: &#171;И помнить страшно, и забыть нельзя&#187;. В истории 20 века много &#171;белых пятен&#187; и оценка их современниками неоднозначна. Одной из таких дат является 30 октября &#8212; День памяти жертв политических репрессий. Это печальная дата в нашей истории, которую нельзя оставлять без внимания. Поэтому мы и провели это мероприятие. Разговор шел о страшном времени для нашей страны, времени когда сломано было миллионы судеб людей в лагерях ГУЛАГа, забытых из страха даже родными. Мы обязаны помнить горькое прошлое и извлекать из него правильные уроки, чтить и исполнять законы, уважать права и свободы, ценить жизнь каждого человека.</p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-37342" src="http://erdkhimik.ru/wp-content/uploads/2023/10/photo5328083252436652012.jpg" alt="" width="640" height="480" srcset="http://erdkhimik.ru/wp-content/uploads/2023/10/photo5328083252436652012.jpg 640w, http://erdkhimik.ru/wp-content/uploads/2023/10/photo5328083252436652012-300x225.jpg 300w, http://erdkhimik.ru/wp-content/uploads/2023/10/photo5328083252436652012-400x300.jpg 400w" sizes="(max-width: 640px) 100vw, 640px" /> <a href="http://erdkhimik.ru/i-pomnit-strashno-i-zabyt-nelzya#more-37341" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Размещено в</span> <a href="http://erdkhimik.ru/category/mechnyanskij-selskij-klub" rel="category tag">Мечнянский сельский клуб</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://erdkhimik.ru/i-pomnit-strashno-i-zabyt-nelzya#respond"><span class="leave-reply">Комментарии</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-37341 -->
+
+				
+					
+	<article id="post-37336" class="post-37336 post type-post status-publish format-standard hentry category-lektorii-dlya-molodyozhi category-shilovskij-selskij-dom-kultury">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://erdkhimik.ru/dym-unosyashhij-zdorove" rel="bookmark">&#171;Дым, уносящий здоровье&#187;</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Опубликовано: </span><a href="http://erdkhimik.ru/dym-unosyashhij-zdorove" title="07:31" rel="bookmark"><time class="entry-date" datetime="2023-10-31T07:31:57+00:00">31.10.2023</time></a><span class="by-author"> <span class="sep"> </span> <span class="author vcard"><a class="url fn n" href="http://erdkhimik.ru/author/admin" title="Посмотреть все записи автора admin" rel="author">admin</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://erdkhimik.ru/dym-unosyashhij-zdorove#respond"><span class="leave-reply">Добавить комментарий</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_37315" style="width: 100px" class="wp-caption aligncenter"><img class="size-full wp-image-37315" src="http://erdkhimik.ru/wp-content/uploads/2023/10/12-1.jpg" alt="" width="90" height="90" /><p class="wp-caption-text">Возрастное ограничение</p></div>
+<p>28 октября в Шиловском СДК совместно с библиотекой провели урок здоровья &#171;Дым, уносящий здоровье&#187;. В ходе мероприятия присутствующие узнали о страшных последствиях курения, о том, что курящий человек приносит вред не только себе, но и окружающим, о том как полезно вести здоровый образ жизни. Присутствовало-22 человека.</p>
+<p style="text-align: center;"><img class="alignnone size-full wp-image-37337" src="http://erdkhimik.ru/wp-content/uploads/2023/10/photo5327794128123187187.jpg" alt="" width="640" height="288" srcset="http://erdkhimik.ru/wp-content/uploads/2023/10/photo5327794128123187187.jpg 640w, http://erdkhimik.ru/wp-content/uploads/2023/10/photo5327794128123187187-300x135.jpg 300w, http://erdkhimik.ru/wp-content/uploads/2023/10/photo5327794128123187187-500x225.jpg 500w" sizes="(max-width: 640px) 100vw, 640px" /> <a href="http://erdkhimik.ru/dym-unosyashhij-zdorove#more-37336" class="more-link">Читать далее <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Размещено в</span> <a href="http://erdkhimik.ru/category/lektorii-dlya-molodyozhi" rel="category tag">лектории для молодёжи</a>, <a href="http://erdkhimik.ru/category/shilovskij-selskij-dom-kultury" rel="category tag">Шиловский сельский дом культуры</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://erdkhimik.ru/dym-unosyashhij-zdorove#respond"><span class="leave-reply">Комментарии</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-37336 -->
+
+				
+						<nav id="nav-below">
+			<h3 class="assistive-text">Навигация по записям</h3>
+			<div class="nav-previous"><a href="http://erdkhimik.ru/page/2" ><span class="meta-nav">&larr;</span> Предыдущие записи</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-above -->
+	
+			
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<form method="get" id="searchform" action="http://erdkhimik.ru/">
+		<label for="s" class="assistive-text">Поиск</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Поиск" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Поиск" />
+	</form>
+</aside><aside id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a onclick="TicketWidget.openTicketWidget({widgetType: 'cinema', objectId: 32, params: {widgetKey:'ff5a8ffa-65a0-11e9-800e-002590c30ad4'}});">Купить билеты в кино или на мероприятие</a></div></aside><aside id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script src='https://pos.gosuslugi.ru/bin/script.min.js'></script> 
+<style>
+#js-show-iframe-wrapper{position:relative;display:flex;align-items:center;justify-content:center;width:100%;min-width:293px;max-width:100%;background:linear-gradient(138.4deg,#38bafe 26.49%,#2d73bc 79.45%);color:#fff;cursor:pointer}#js-show-iframe-wrapper .pos-banner-fluid *{box-sizing:border-box}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2{display:block;width:240px;min-height:56px;font-size:18px;line-height:24px;cursor:pointer;background:#0d4cd3;color:#fff;border:none;border-radius:8px;outline:0}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:hover{background:#1d5deb}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:focus{background:#2a63ad}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:active{background:#2a63ad}@-webkit-keyframes fadeInFromNone{0%{display:none;opacity:0}1%{display:block;opacity:0}100%{display:block;opacity:1}}@keyframes fadeInFromNone{0%{display:none;opacity:0}1%{display:block;opacity:0}100%{display:block;opacity:1}}@font-face{font-family:LatoWebLight;src:url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Light.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Light.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Light.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:LatoWeb;src:url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Regular.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Regular.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Regular.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:LatoWebBold;src:url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Bold.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Bold.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Bold.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:RobotoWebLight;src:url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Light.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Light.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Light.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:RobotoWebRegular;src:url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Regular.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Regular.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Regular.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:RobotoWebBold;src:url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Bold.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Bold.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Bold.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:ScadaWebRegular;src:url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Regular.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Regular.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Regular.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:ScadaWebBold;src:url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Bold.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Bold.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Bold.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:Geometria;src:url(https://pos.gosuslugi.ru/bin/fonts/Geometria/Geometria.eot);src:url(https://pos.gosuslugi.ru/bin/fonts/Geometria/Geometria.eot?#iefix) format("embedded-opentype"),url(https://pos.gosuslugi.ru/bin/fonts/Geometria/Geometria.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Geometria/Geometria.ttf) format("truetype");font-weight:400;font-style:normal}@font-face{font-family:Geometria-ExtraBold;src:url(https://pos.gosuslugi.ru/bin/fonts/Geometria/Geometria-ExtraBold.eot);src:url(https://pos.gosuslugi.ru/bin/fonts/Geometria/Geometria-ExtraBold.eot?#iefix) format("embedded-opentype"),url(https://pos.gosuslugi.ru/bin/fonts/Geometria/Geometria-ExtraBold.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Geometria/Geometria-ExtraBold.ttf) format("truetype");font-weight:900;font-style:normal}
+</style>
+
+<style>
+#js-show-iframe-wrapper{background:var(--pos-banner-fluid-100__background)}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2{width:100%;min-height:52px;background:#fff;color:#0b1f33;font-size:16px;font-family:LatoWeb,sans-serif;font-weight:400;padding:0;line-height:1.2}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:active,#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:focus,#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:hover{background:#e4ecfd}#js-show-iframe-wrapper .bf-100{position:relative;display:grid;grid-template-columns:var(--pos-banner-fluid-100__grid-template-columns);grid-template-rows:var(--pos-banner-fluid-100__grid-template-rows);width:100%;max-width:var(--pos-banner-fluid-100__max-width);box-sizing:border-box;grid-auto-flow:row dense}#js-show-iframe-wrapper .bf-100__decor{background:var(--pos-banner-fluid-100__bg-url) var(--pos-banner-fluid-100__bg-url-position) no-repeat;background-size:cover;background-color:#f8efec;position:relative}#js-show-iframe-wrapper .bf-100__logo-wrap{box-shadow:var(--pos-banner-fluid-100__logo-box-shadow)}#js-show-iframe-wrapper .bf-100__content{display:flex;flex-direction:column;padding:var(--pos-banner-fluid-100__content-padding);grid-row:var(--pos-banner-fluid-100__content-grid-row);background-color:var(--pos-banner-fluid-100__content-bgc)}#js-show-iframe-wrapper .bf-100__description{display:flex;flex-direction:column;margin:var(--pos-banner-fluid-100__description-margin)}#js-show-iframe-wrapper .bf-100__text{margin:var(--pos-banner-fluid-100__text-margin);font-size:var(--pos-banner-fluid-100__text-font-size);line-height:1.3;font-family:LatoWeb,sans-serif;font-weight:700;color:#0b1f33}#js-show-iframe-wrapper .bf-100__text_small{font-size:var(--pos-banner-fluid-100__text-small-font-size);font-weight:400;margin:0}#js-show-iframe-wrapper .bf-100__bottom-wrap{display:flex;flex-direction:row;align-items:center}#js-show-iframe-wrapper .bf-100__logo-wrap{position:absolute;top:var(--pos-banner-fluid-100__logo-wrap-top);left:0;padding:var(--pos-banner-fluid-100__logo-wrap-padding);background:#fff;border-radius:0 0 8px 0}#js-show-iframe-wrapper .bf-100__logo{width:var(--pos-banner-fluid-100__logo-width);margin-left:1px}#js-show-iframe-wrapper .bf-100__slogan{font-family:LatoWeb,sans-serif;font-weight:700;font-size:var(--pos-banner-fluid-100__slogan-font-size);line-height:1;color:#005ca9}#js-show-iframe-wrapper .bf-100__btn-wrap{width:100%;max-width:var(--pos-banner-fluid-100__button-wrap-max-width)}
+</style >
+<div id='js-show-iframe-wrapper'>
+<div class='pos-banner-fluid bf-100'>
+  <div class='bf-100__decor'>
+    <div class='bf-100__logo-wrap'>
+      <img class='bf-100__logo' src='https://pos.gosuslugi.ru/bin/banner-fluid/gosuslugi-logo-blue.svg'
+        alt='Госуслуги' />
+      <div class='bf-100__slogan'>Решаем вместе</div>
+    </div>
+  </div>
+  <div class='bf-100__content'>
+    <div class='bf-100__description'>
+      <span class='bf-100__text'>
+        Сложности с получением «Пушкинской карты» или приобретением билетов? Знаете, как улучшить работу учреждений культуры?
+      </span>
+      <span class='bf-100__text bf-100__text_small'>
+        Напишите&nbsp;— решим!
+      </span>
+    </div>
+
+    <div class='bf-100__bottom-wrap'>
+      <div class='bf-100__btn-wrap'>
+        <!-- pos-banner-btn_2 не удалять; другие классы не добавлять -->
+        <button class='pos-banner-btn_2' type='button'>Написать
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<script>
+"use strict";function ownKeys(t,e){var n=Object.keys(t);if(Object.getOwnPropertySymbols){var r=Object.getOwnPropertySymbols(t);e&&(r=r.filter(function(e){return Object.getOwnPropertyDescriptor(t,e).enumerable})),n.push.apply(n,r)}return n}function _objectSpread(t){for(var e=1;e<arguments.length;e++){var n=null!=arguments[e]?arguments[e]:{};e%2?ownKeys(Object(n),!0).forEach(function(e){_defineProperty(t,e,n[e])}):Object.getOwnPropertyDescriptors?Object.defineProperties(t,Object.getOwnPropertyDescriptors(n)):ownKeys(Object(n)).forEach(function(e){Object.defineProperty(t,e,Object.getOwnPropertyDescriptor(n,e))})}return t}function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}var POS_PREFIX_100="--pos-banner-fluid-100__",posOptionsInitialBanner100={background:"transparent","content-bgc":"#50B3FF","grid-template-columns":"100%","grid-template-rows":"264px auto","max-width":"1440px","text-font-size":"18px","text-small-font-size":"14px","text-margin":"0 0px 12px 0","description-margin":"0 0 16px 0","button-wrap-max-width":"245px","bg-url":"url('https://pos.gosuslugi.ru/bin/banner-fluid/100/banner-fluid-100-405.svg')","bg-url-position":"center center","content-padding":"36px 24px","logo-wrap-padding":"16px 12px 12px 12px","logo-width":"65px","logo-wrap-top":"0","slogan-font-size":"12px","logo-box-shadow":"none"},setStyles=function(t,n){var r=2<arguments.length&&void 0!==arguments[2]?arguments[2]:POS_PREFIX_100;Object.keys(t).forEach(function(e){n.style.setProperty(r+e,t[e])})},removeStyles=function(e,t){var n=2<arguments.length&&void 0!==arguments[2]?arguments[2]:POS_PREFIX_100;Object.keys(e).forEach(function(e){t.style.removeProperty(n+e)})};function changePosBannerOnResize(){var e=document.documentElement,t=_objectSpread({},posOptionsInitialBanner100),n=document.getElementById("js-show-iframe-wrapper"),r=n?n.offsetWidth:document.body.offsetWidth;499<r&&(t["bg-url"]="url('https://pos.gosuslugi.ru/bin/banner-fluid/100/banner-fluid-100-500.svg')"),584<r&&(t["grid-template-rows"]="auto",t["bg-url"]="url('https://pos.gosuslugi.ru/bin/banner-fluid/100/banner-fluid-100-273.svg')",t["text-font-size"]="20px",t["content-padding"]="46px 24px 46px 24px",t["grid-template-columns"]="53% 47%",t["content-grid-row"]="1"),649<r&&(t["bg-url"]="url('https://pos.gosuslugi.ru/bin/banner-fluid/100/banner-fluid-100-558.svg')"),799<r&&(t["text-font-size"]="20px",t["text-small-font-size"]="16px",t["bg-url"]="url('https://pos.gosuslugi.ru/bin/banner-fluid/100/banner-fluid-100-500.svg')"),1115<r&&(t["text-font-size"]="24px",t["text-small-font-size"]="18px",t["content-padding"]="46px 80px 46px 140px",t["bg-url"]="url('https://pos.gosuslugi.ru/bin/banner-fluid/100/banner-fluid-100-720.svg')"),setStyles(t,e)}changePosBannerOnResize(),window.addEventListener("resize",changePosBannerOnResize),window.onunload=function(){var e=document.documentElement,t=_objectSpread({},posOptionsInitialBanner100);window.removeEventListener("resize",changePosBannerOnResize),removeStyles(t,e)};
+</script>
+<script>Widget("https://pos.gosuslugi.ru/form", 361786)</script></div></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Свежие записи</h3>		<ul>
+											<li>
+					<a href="http://erdkhimik.ru/bystraya-raketka-13">&#171;Быстрая ракетка&#187;</a>
+									</li>
+											<li>
+					<a href="http://erdkhimik.ru/shashechnyj-turnir-3">шашечный турнир</a>
+									</li>
+											<li>
+					<a href="http://erdkhimik.ru/tennisnyj-turnir-14">теннисный турнир</a>
+									</li>
+											<li>
+					<a href="http://erdkhimik.ru/kino-so-2-po-8-noyabrya-2">кино со 2 по 8 ноября</a>
+									</li>
+											<li>
+					<a href="http://erdkhimik.ru/master-klassy-igra-na-gitare-dlya-levoj-ruki-stupinskij-sdk-provodit-panin-s-v">Мастер-классы &#171;Игра на гитаре для левой руки&#187; (Ступинский СДК) &#8212; проводит Панин С.В.</a>
+									</li>
+					</ul>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Свежие комментарии</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Елена</span> к записи <a href="http://erdkhimik.ru/koncert-238#comment-69812">концерт &#171;23+8&#187;</a></li><li class="recentcomments"><span class="comment-author-link">admin</span> к записи <a href="http://erdkhimik.ru/kratkaya-informaciya-nas#comment-67141">008 Информация</a></li><li class="recentcomments"><span class="comment-author-link">Евгения</span> к записи <a href="http://erdkhimik.ru/kratkaya-informaciya-nas#comment-67119">008 Информация</a></li><li class="recentcomments"><span class="comment-author-link">admin</span> к записи <a href="http://erdkhimik.ru/kratkaya-informaciya-nas#comment-52592">008 Информация</a></li><li class="recentcomments"><span class="comment-author-link">Николай</span> к записи <a href="http://erdkhimik.ru/kratkaya-informaciya-nas#comment-52577">008 Информация</a></li></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Архивы</h3>		<ul>
+			<li><a href='http://erdkhimik.ru/2023/11'>Ноябрь 2023</a></li>
+	<li><a href='http://erdkhimik.ru/2023/10'>Октябрь 2023</a></li>
+	<li><a href='http://erdkhimik.ru/2023/09'>Сентябрь 2023</a></li>
+	<li><a href='http://erdkhimik.ru/2023/08'>Август 2023</a></li>
+	<li><a href='http://erdkhimik.ru/2023/07'>Июль 2023</a></li>
+	<li><a href='http://erdkhimik.ru/2023/06'>Июнь 2023</a></li>
+	<li><a href='http://erdkhimik.ru/2023/05'>Май 2023</a></li>
+	<li><a href='http://erdkhimik.ru/2023/04'>Апрель 2023</a></li>
+	<li><a href='http://erdkhimik.ru/2023/03'>Март 2023</a></li>
+	<li><a href='http://erdkhimik.ru/2023/02'>Февраль 2023</a></li>
+	<li><a href='http://erdkhimik.ru/2023/01'>Январь 2023</a></li>
+	<li><a href='http://erdkhimik.ru/2022/12'>Декабрь 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2022/11'>Ноябрь 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2022/10'>Октябрь 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2022/09'>Сентябрь 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2022/08'>Август 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2022/07'>Июль 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2022/06'>Июнь 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2022/05'>Май 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2022/04'>Апрель 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2022/03'>Март 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2022/02'>Февраль 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2022/01'>Январь 2022</a></li>
+	<li><a href='http://erdkhimik.ru/2021/12'>Декабрь 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2021/11'>Ноябрь 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2021/10'>Октябрь 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2021/09'>Сентябрь 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2021/08'>Август 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2021/07'>Июль 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2021/06'>Июнь 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2021/05'>Май 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2021/04'>Апрель 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2021/03'>Март 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2021/02'>Февраль 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2021/01'>Январь 2021</a></li>
+	<li><a href='http://erdkhimik.ru/2020/12'>Декабрь 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2020/11'>Ноябрь 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2020/10'>Октябрь 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2020/09'>Сентябрь 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2020/08'>Август 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2020/07'>Июль 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2020/06'>Июнь 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2020/05'>Май 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2020/04'>Апрель 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2020/03'>Март 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2020/02'>Февраль 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2020/01'>Январь 2020</a></li>
+	<li><a href='http://erdkhimik.ru/2019/12'>Декабрь 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2019/11'>Ноябрь 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2019/10'>Октябрь 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2019/09'>Сентябрь 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2019/08'>Август 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2019/07'>Июль 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2019/06'>Июнь 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2019/05'>Май 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2019/04'>Апрель 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2019/03'>Март 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2019/02'>Февраль 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2019/01'>Январь 2019</a></li>
+	<li><a href='http://erdkhimik.ru/2018/12'>Декабрь 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2018/11'>Ноябрь 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2018/10'>Октябрь 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2018/09'>Сентябрь 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2018/08'>Август 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2018/07'>Июль 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2018/06'>Июнь 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2018/05'>Май 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2018/04'>Апрель 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2018/03'>Март 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2018/02'>Февраль 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2018/01'>Январь 2018</a></li>
+	<li><a href='http://erdkhimik.ru/2017/12'>Декабрь 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2017/11'>Ноябрь 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2017/10'>Октябрь 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2017/09'>Сентябрь 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2017/08'>Август 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2017/07'>Июль 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2017/06'>Июнь 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2017/05'>Май 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2017/04'>Апрель 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2017/03'>Март 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2017/02'>Февраль 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2017/01'>Январь 2017</a></li>
+	<li><a href='http://erdkhimik.ru/2016/12'>Декабрь 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2016/11'>Ноябрь 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2016/10'>Октябрь 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2016/09'>Сентябрь 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2016/08'>Август 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2016/07'>Июль 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2016/06'>Июнь 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2016/05'>Май 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2016/04'>Апрель 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2016/03'>Март 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2016/02'>Февраль 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2016/01'>Январь 2016</a></li>
+	<li><a href='http://erdkhimik.ru/2015/12'>Декабрь 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2015/11'>Ноябрь 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2015/10'>Октябрь 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2015/09'>Сентябрь 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2015/08'>Август 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2015/07'>Июль 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2015/06'>Июнь 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2015/05'>Май 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2015/04'>Апрель 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2015/03'>Март 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2015/02'>Февраль 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2015/01'>Январь 2015</a></li>
+	<li><a href='http://erdkhimik.ru/2014/11'>Ноябрь 2014</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Рубрики</h3>		<ul>
+	<li class="cat-item cat-item-6"><a href="http://erdkhimik.ru/category/obyavlenie-meropriyatij" >1 отчёт о мероприятиях РДК &quot;Химик&quot;</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://erdkhimik.ru/category/02-plany" >2 Планы</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://erdkhimik.ru/category/3-grafik-raboty-kruzhkov-i-klo" >3 график работы кружков и КЛО</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://erdkhimik.ru/category/avtoperedvizhnoj-centr" >Автопередвижной центр</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://erdkhimik.ru/category/akcii" >Акции</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://erdkhimik.ru/category/protivodejstvie-korrupcii/antikorrupcionnaya-ekspertiza" >Антикоррупционная экспертиза</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://erdkhimik.ru/category/afisha-kinoteatra" >Афиша кинотеатра</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://erdkhimik.ru/category/nashi-meropriyatiya" >афиша мероприятий РДК</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://erdkhimik.ru/category/afisha-meropriyatij-selo" >афиша мероприятий село</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://erdkhimik.ru/category/%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8" >Без рубрики</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://erdkhimik.ru/category/bessmertnyj-polk" >Бессмертный полк</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://erdkhimik.ru/category/video" >видео</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://erdkhimik.ru/category/inozemskij-selskij-klub" >Иноземский сельский клуб</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://erdkhimik.ru/category/konkursy" >конкурсы</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://erdkhimik.ru/category/kochkinskij-selskij-klub" >Кочкинский сельский клуб</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://erdkhimik.ru/category/kruglikovskij-selskij-klub" >Кругликовский сельский клуб</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://erdkhimik.ru/category/kukujskij-selskij-klub" >Кукуйский сельский клуб</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://erdkhimik.ru/category/kytinskij-selskij-dom-kultury" >Кытинский сельский дом культуры</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://erdkhimik.ru/category/lektorii-dlya-molodyozhi" >лектории для молодёжи</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://erdkhimik.ru/category/lobanovskij-klub" >Лобановский сельский дом культуры</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://erdkhimik.ru/category/protivodejstvie-korrupcii/metodicheskie-materialy" >Методические материалы</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://erdkhimik.ru/category/mechnyanskij-selskij-klub" >Мечнянский сельский клуб</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://erdkhimik.ru/category/mirnovskij-selskij-klub" >Мирновский сельский клуб</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://erdkhimik.ru/category/nashi-kollektivy" >Наши коллективы</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://erdkhimik.ru/category/nikolaevskij-selskij-dom-kultury" >Николаевский сельский дом культуры</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://erdkhimik.ru/category/novokrasivskij-selskij-klub" >Новокрасивский сельский клуб</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://erdkhimik.ru/category/nashi-novosti" >Новости</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://erdkhimik.ru/category/protivodejstvie-korrupcii/normativnye-pravovye-i-inye-akty-v-sfere-protivodejstviya-korrupcii" >Нормативные правовые и иные акты в сфере противодействия коррупции</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://erdkhimik.ru/category/ovsyannikovskij-selskij-dom-kultury" >Овсянниковский сельский дом культуры</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://erdkhimik.ru/category/pavlo-xutorskoj-selskij-dom-kultury" >Павло-Хуторской сельский дом культуры</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://erdkhimik.ru/category/pamyatnye-daty" >Памятные даты</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://erdkhimik.ru/category/pozhilinskij-selskij-klub" >Пожилинский сельский клуб</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://erdkhimik.ru/category/polozheniya-konkursy" >положения конкурсы</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://erdkhimik.ru/category/protivodejstvie-korrupcii/svedeniya-o-doxodax-rasxodax-ob-imushhestve-i-obyazatelstvax-imushhestvennogo-xaraktera" >Сведения о доходах, расходах, об имуществе и обязательствах имущественного характера</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://erdkhimik.ru/category/selskie-doma-kultury-i-kluby" >Сельские дома культуры и клубы</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://erdkhimik.ru/category/selskij-klub-kugushevskie-vyselki" >Сельский клуб Кугушевские выселки</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://erdkhimik.ru/category/selskij-klub-posyolok-kolos" >сельский клуб посёлок &quot;Колос&quot;</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://erdkhimik.ru/category/stepno-xutorskoj-selskij-dom-kultury" >Степно-Хуторской сельский дом культуры</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://erdkhimik.ru/category/stupinskij-selskij-dom-kultury" >Ступинский сельский дом культуры</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://erdkhimik.ru/category/tulskoe-dolgoletie" >Тульское долголетие</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="http://erdkhimik.ru/category/protivodejstvie-korrupcii/formy-dokumentov-svyazannyx-s-protivodejstviem-korrupcii-dlya-zapolneniya" >Формы документов, связанных с противодействием коррупции, для заполнения</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://erdkhimik.ru/category/xmelevskoj-selskij-klub" >Хмелевской сельский клуб</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://erdkhimik.ru/category/chernyatinskij-selskij-dom-kultury" >Чернятинский сельский дом культуры</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://erdkhimik.ru/category/shaxmatnyj-klub" >Шахматный клуб</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://erdkhimik.ru/category/shilovskij-selskij-dom-kultury" >Шиловский сельский дом культуры</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://erdkhimik.ru/category/shkilyovskij-sdk" >Шкилёвский СДК</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://erdkhimik.ru/category/eto-interesno" >Это интересно</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://erdkhimik.ru/category/yaroslavskij-selskij-dom-kultury" >Ярославский сельский дом культуры</a>
+</li>
+		</ul>
+</aside><aside id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script type="text/javascript">
+       (function(d, t, p) {
+           var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+           j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";
+           var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+       })(document, "script", document.location.protocol);
+    </script>
+
+<meta name="proculture-verification" content="675728d81086c6ec076531dc6b882da0" /></div></aside><aside id="custom_html-3" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script src="http://widget.premieralight.ru/static/js/module.js" type="text/javascript"></script>
+
+
+
+<script async src="https://culturaltracking.ru/static/js/spxl.js?pixelId=7691" data-pixel-id="7691"></script></div></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><p><a href="https://vk.com/kperekrestok71/"><img class="alignnone wp-image-20973 size-full" src="http://erdkhimik.ru/wp-content/uploads/2021/09/Безымянный.jpg" alt="" width="792" height="265" /></a></p>
+</div>
+		</aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><p><a href="https://tularegion.ru/presscenter/press-release/?ELEMENT_ID=329152"><img class="alignnone size-full wp-image-30015" src="http://erdkhimik.ru/wp-content/uploads/2022/10/Залупа-коня.jpg" alt="Всё для победы" width="1169" height="1654" /></a></p>
+</div>
+		</aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><p><a href="https://or71.ru/primi_uchastie/narodniy_budjet_new/"><img class="alignnone size-large wp-image-36058" src="http://erdkhimik.ru/wp-content/uploads/2023/08/1-1024x283.jpg" alt="" width="584" height="161" /></a></p>
+</div>
+		</aside>		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+		<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t45.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='1' height='1'><\/a>")
+</script><!--/LiveInternet-->
+
+
+			
+
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Современная персональная платформа для публикаций">Сайт работает на WordPress</a>
+			</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://erdkhimik.ru/wp-includes/js/wp-embed.min.js?ver=4.9.24'></script>
+
+</body>
+</html>
